@@ -18,7 +18,7 @@ Use extern library from [Ryan Halliday](https://github.com/ry167): [twig-gravata
 
 ### Usage
 Use twig filters on an email `<img src="{{ record.user.email|grAvatar|grHttps|grSize(40) }}" alt="Author avatar"/>`.
-All filters definition are available on original library [README](https://github.com/ry167/twig-gravatar#filters)
+All filter definitions are available on original library [README](https://github.com/ry167/twig-gravatar#filters)
 
 ### Credits
 Use extern library : [twig-gravatar](https://github.com/ry167/twig-gravatar)
